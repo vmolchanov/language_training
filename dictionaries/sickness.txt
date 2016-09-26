@@ -1,0 +1,110 @@
+ache$боль
+allergy$аллергия
+ambulance$машина скорой помощи, скорая помощь
+asthma$астма
+bandage$бинт
+blind$слепой, блайнд
+blood pressure$кровяное давление
+boil$нарыв
+break$перерыв, перемена (в школе), перелом, перелом, нарушать
+bronchitis$бронхит
+bruise$синяк
+burn$ожог
+cancer$рак
+catch a cold$простужаться/простудиться
+cold$холодный, простуда
+contagious$заразный
+cough$кашель
+cough medicine$лекарство от кашля
+crutch$костыль
+cure$средство
+cut$резать, разрезать, порез
+cut oneself$порезаться
+deaf$глухой
+death$смерть
+diagnosis$диагноз
+diarrhea$понос
+disease$болезнь
+diseased$больной
+doctor$врач, доктор
+dose$доза
+drug$лекарственное средство, наркотик
+embarrassed$затруднённый (о движениях)
+energetical$сильнодействующий
+epidemic$эпидемия
+faint$падать/упасть в обморок
+fair and square$честно, справедливо
+feeble$слабый
+fever$повышенная температура
+fit$в хорошей форме
+flu$грипп
+fracture$перелом
+get a cold$простужаться/простудиться
+giddiness$головокружение
+gypsum$гипс
+head cold$насморк
+headache$головная боль
+health$здоровье
+healthy$здоровый
+heart attack$сердечный приступ
+hygiene$гигиена
+illness$болезнь
+immunity$иммунитет
+in good shape$в хорошей форме
+incurable disease$неизлечимая болезнь
+incurable illness$неизлечимая болезнь
+injection$укол
+injury$повреждение
+medical examination$медицинское освидетельствование
+medical science$медицина
+medicine$лекарство
+nervous breakdown$нервное расстройство
+ointment$мазь
+operation$операция
+pain$боль
+painkiller$болеутоляющее средство
+pale$бледный
+pallid$бледный
+patient$пациент
+perspiration$потливость
+pharmacy$аптека, аптека
+pill$таблетка
+pimple$прыщ
+plaster$пластырь
+poison$яд, отрава
+pregnant$беременная
+prescription$рецепт
+pulse$пульс
+pus$гной
+rash$сыпь
+recovery$выздоровление
+remedy$средство
+rest$отдыхать, отдыхать/отдохнуть
+sick$больной
+sickness$тошнота
+side-effect$побочное действие
+skin eruption$сыпь
+sleeping tablet$снотворная таблетка
+sling$перевязь
+sore point$больное, уязвимое место
+sore throat$больное горло, ангина
+spot$прыщ
+start crying$заплакать
+stroke$инсульт
+suffer from$страдать от
+sunstroke$солнечный удар
+surgery$хирургия
+sweat$пот
+swoon$падать/упасть в обморок
+symptom$симптом
+syringe$шприц
+take medicine$принимать лекарство
+therapy$терапия
+thermometer$термометр
+toothache$зубная боль
+treatment$лечение
+ulcer$язва
+urine test$анализ мочи
+weak$слабый
+wound$рана
+x-ray$рентген

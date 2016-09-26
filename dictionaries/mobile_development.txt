@@ -1,0 +1,41 @@
+a/b testing$А/Б-тестирование
+ad impression$Демонстрация рекламы
+cpc$ Стоимость за один клик
+cpi$Цена за установку
+content$Содержимое
+cross-browser$Работающий во всех браузерах
+engine$двигатель, Движок
+iap$Покупка внутри приложения
+icon$Иконка
+touch interface$Сенсорный интерфейс
+user acquisition$Привлечение пользователя
+approve$Утверждение
+bloatware$Раздутое ПО
+build$строить, Билд (сборка)
+crash$Сбой
+discovering$Открытие
+engagement$Вовлеченность
+feature$Функция, сенсационный материал
+featuring$Выделение
+fragmentation$Фрагментация
+layout$Разметка, макет
+navigation$Навигация
+performance$исполнение, Быстродействие/качество работы
+permission$разрешение, Разрешение
+publisher$Издатель
+push-notification$Всплывающее пуш-уведомление
+render$Рендеринг
+retention$Удержание (пользователя)
+sandbox$Песочница
+sidebar$Боковая панель
+soft launch$Ограниченный запуск (тестирование)
+source$Исходный код
+streaming$Потоковая передача данных
+top grossing$Самые прибыльные приложения
+transition$Переход
+unicorn$Единорог (компания, стоимостью в 1млрд$)
+user experience (ux)$Пользовательский опыт (впечатление)
+user review$Отзыв пользователя
+whale$кит, Кит (много тратящий пользователь)
+wireframe$Структурная схема страниц
+wrapper$Обертка

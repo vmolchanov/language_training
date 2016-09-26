@@ -1,0 +1,73 @@
+acrobatics$акробатика
+aerobics$аэробика, фитнес, аэробика
+alpinism$альпинизм
+archery$стрельба из лука
+armwrestling$армрестлинг
+athletics$атлетика, лёгкая атлетика
+auto sport$автоспорт
+autocross$автокросс
+backgammon$нарды, нарды (игра)
+badminton$бадминтон
+baseball$бейсбол
+basketball$баскетбол
+biathlon$биатлон
+biking$велоспорт
+billiards$бильярд
+bowling$боулинг
+boxing$бокс
+breast-stroke$брасс
+canoeing$гребля на байдарках и каноэ
+crawl$кроль
+cross-country$бег по пересечённой местности
+cycle racing$велоспорт
+cycling$велоспорт, езда на велосипеде, велоспорт
+football$футбол, футбол
+game$игра, игра
+golf$гольф
+gymnastics$гимнастика
+handball$гандбол
+hockey$хоккей
+horse racing$скачки
+horseriding$езда верхом на лошади
+hurdling$барьерный бег
+javelin-throwing$метание копья
+jogging$бег трусцой
+judo$дзюдо
+karate$карате
+marathone race$марафонский бег
+mountaineering$альпинизм
+olympiad$олимпиада
+parachute jumping$парашютизм, прыжки с парашютом
+parachuting$парашютный спорт
+pentathlon$пятиборье
+ping pong$настольный теннис
+poker$покер
+polo$поло
+race$гонки
+rafting$рафтинг
+rally$ралли
+roller skating$катание на роликах
+rowing$гребля
+running$бег
+sailing$парусный спорт
+shaping$шейпинг
+shooting$стрельба
+shot put$толкание ядра
+skating$катание на коньках
+skiing$лыжный спорт, катание на лыжах
+skydiving$затяжные прыжки с парашютом
+soccer$футбол
+sport$спорт
+sports day$спартакиада
+sumo$сумо
+surfing$сёрфинг
+swimming$плавание
+tennis$теннис, теннис
+tobogganing$санный спорт
+tournament$турнир
+volleyball$волейбол
+walking$ходьба
+waterskiing$катание на водных лыжах
+weightlifting$тяжёлая атлетика
+windsurfing$виндсёрфинг
+wrestling$борьба

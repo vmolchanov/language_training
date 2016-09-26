@@ -1,0 +1,50 @@
+air freshener$освежитель воздуха
+balcony$балкон
+bath$ванна
+bathroom$ванная комната
+bedroom$спальня
+blanket$шерстяное одеяло
+broom$веник, метла
+bulb$лампочка
+candle$свеча
+carpet$ковер
+ceiling$потолок
+clock$часы
+conditioner$кондиционер
+dining room$столовая
+door$дверь
+electric fire$электрический обогреватель
+electricity$электричество
+flat$квартира
+gas$газ, бензин, горючее, топливо (амер.; разг.)
+hairdryer$фен
+kitchen$кухня
+lamp bracket$бра
+laundry basket$корзина для белья
+linen$белье, льняной
+living room$гостиная
+match$спичка, матч
+mirror$зеркало
+napkin$салфетка, салфетка
+night lamp$ночник
+piano$фортепьяно
+pillow$подушка
+radio$радио
+room$комната, номер
+sheet$простыня
+shelf$полка
+shower$душ, ливень
+sink$раковина
+sitting room$гостиная
+socket$розетка
+swab$швабра
+switch$выключатель
+tablecloth$скатерть
+telephone$телефон
+television$телевизор
+towel$полотенце
+vacuum cleaner$пылесос
+vase$ваза
+wall$стена
+wash$стирка
+washing machine$стиральная машина

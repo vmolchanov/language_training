@@ -1,0 +1,170 @@
+dobermann pinscher$доберман
+hedgehog$ёж
+russian muskrat$выхухоль
+adder$гадюка
+alligator$аллигатор
+american black bear$барибал
+american buffalo$бизон
+anaconda$анаконда
+antelope$антилопа
+arctic fox$песец
+aurochs$зубр
+baboon$бабуин
+badger$барсук
+beak$клюв
+bear$медведь
+beaver$бобр
+bill$счёт, клюв
+billy goat$козёл
+bison$бизон
+boa$удав
+boar$боров
+bob$хвост подрезанный
+boxer$боксёр
+buffalo$буйвол
+bull$бык
+bulldog$бульдог
+calf$телёнок
+camel$верблюд
+cat$кошка
+cavy$морская свинка
+chameleon$хамелеон
+cheetah$гепард
+chicken$цыплёнок, курица
+chimpanzee$шимпанзе
+chinchilla$шиншилла
+chipmunk$бурундук
+claw$коготь
+cobra$кобра
+cock$петух
+collie$колли
+cougar$пума
+cow$корова
+coyote$койот
+crayfish$рак, речной рак
+crocodile$крокодил
+dachshund$такса
+deer$олень
+desman$выхухоль
+dingo$динго
+dog$собака
+domestic animal$домашнее животное
+donkey$осёл
+down$вниз, пух
+duck$утка
+echidna$ехидна
+elephant$слон
+elk$лось
+fang$клык
+feather$перо
+foal$жеребёнок
+fox$лисица
+frog$лягушка
+gazelle$газель
+gecko$геккон
+gibbon$гиббон
+giraffe$жираф
+gnu$антилопа гну
+goat$коза
+goose$гусь
+gorilla$горилла
+grass snake$уж
+grizzly$гризли
+hamadryad$гамадрил
+hamster$хомяк
+hare$заяц
+he-goat$козёл
+heifer$тёлка
+hen$курица
+herd$стадо
+hippopotamus$гиппопотам
+horse$лошадь
+hyena$гиена
+iguana$игуана
+jackal$шакал
+jaguar$ягуар
+kangaroo$кенгуру
+koala$коала
+lama$лама
+lemur$Лемур
+leopard$леопард
+lion$лев
+lizard$ящерица
+lobster$омар
+lynx$рысь
+macaque$макака
+marmoset$мартышка
+marmot$сурок
+marten$куница
+milker$молочная корова
+mole$крот
+mollusc$моллюск
+mollusk$моллюск
+mongoose$мангуст
+mongrel$дворняга
+monitor lizard$варан
+monkey$обезьяна
+moose$американский лось
+mouse$мышь
+nanny goat$коза
+octopus$осьминог
+orang-utan$орангутанг
+otter$выдра
+ox$бык
+pad$подушечка на лапе животного
+panda$панда
+panther$пантера
+paw$лапа
+pedigree$родословная
+penguin$пингвин
+polar fox$песец
+poodle$пудель
+porcupine$дикобраз
+predator$хищник
+primates$приматы
+puma$пума
+puppy$щенок
+rabbit$кролик
+rabies$бешенство
+racoon$енот
+ram$баран
+rat$крыса
+reindeer$северный олень
+rhinoceros$носорог
+rock lobster$лангуст
+rooster$петух
+sable$соболь
+seal$тюлень
+serpent$крупная змея
+shark$акула
+she-goat$коза
+sheep$овца
+sheep-dog$овчарка
+skunk$скунс
+sloth$ленивец
+snake$змея
+snow leopard$ирбис, снежный барс
+sow$самка свиньи
+spaniel$спаниель
+spiny lobster$лангуст
+squirrel$белка
+st.bernard$сенбернар
+swine$свинья
+talon$коготь птицы
+tiger$тигр
+toad$жаба
+tomcat$кот
+tortoise$черепаха
+turkey$индюк, индейка
+ungulate animal$копытное животное
+viper$гадюка
+vixen$лисица
+walrus$морж
+whale$кит, Кит (много тратящий пользователь)
+whisker$ус
+wild boar$кабан
+wildebeest$антилопа гну
+wing$крыло
+wolf$волк
+wolf-hound$волкодав
+zebra$зебра

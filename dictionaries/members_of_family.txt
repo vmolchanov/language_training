@@ -1,0 +1,35 @@
+aunt$тётя
+brother$брат
+child$ребёнок, ребёнок
+cousin$двоюродный брат/сестра
+daughter$дочь
+ex-husband$бывший муж
+ex-wife$бывшая жена
+father$отец
+granddaughter$внучка
+grandfather$дедушка
+grandmother$бабушка
+grandparent$дед, бабушка
+grandson$внук
+great-grandfather$прадед
+great-grandmother$прабабушка
+half-brother$сводный брат
+half-sister$сводная сестра
+husband$муж
+mother$мать
+nephew$племянник
+niece$племянница
+orphan$сирота
+parents$родители
+sibling$родной брат и сестра
+sister$сестра
+sister-in-law$невестка, свояченица
+son$сын
+spouse$супруг(а)
+stepdaughter$падчерица
+stepfather$отчим
+stepmother$мачеха
+stepparent$приемный родитель
+stepson$пасынок
+uncle$дядя
+wife$жена, жена

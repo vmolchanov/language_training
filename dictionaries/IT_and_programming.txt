@@ -1,0 +1,114 @@
+ide$интегрированная среда разработки
+integrated development environment$интегрированная среда разработки
+lan$локальная вычислительная сеть
+lcd$ЖКД, жидкокристаллический дисплей
+led$светодиод
+lf line feed$перевод строки
+lgpl$стандартная общественная лицензия ограниченного применения
+lifo$последним пришёл - первым обслужен
+lsb$младший (наименее значащий) бит байта или машинного слова
+lsm$интерфейс модулей безопасности
+last in first out$последним пришёл - первым обслужен
+least significant bit$младший (наименее значащий) бит байта или машинного слова
+lesser gpl$стандартная общественная лицензия ограниченного применения
+light-emitting diode$светодиод
+lightweight directory access protocol$протокол, обеспечивающий доступ к несовместимым между собой каталогам
+linux security modules$модули безопасности Linux
+liquid-crystal display$жидкокристаллический индикатор
+load$загружать
+local area network$локальная вычислительная сеть
+programming language$язык программирования
+access$доступ
+algorithm$алгоритм
+board$садиться (в поезд, на судно), плата, борд
+byte$байт
+class$класс
+cluster$кластер
+code$код
+computer$компьютер
+computing$вычисление
+configuration$конфигурация
+constructor$конструктор
+customization$настройка
+database$база данных
+debug$отлаживать (программу), отладка; отладить
+debugger$отладчик (программа для отладки кода)
+destructor$деструктор
+develop$развивать, разрабатывать, проявлять/проявить
+developer$разработчик, проявитель
+developing$разработка
+diskette$дискета
+distributed system$распределенная система
+dummy$«чайник»
+event$событие (программное), соревнование по определенному виду спорта, этап (в соревновании)
+example$пример
+fault-tolerant$отказоустойчивость
+folder$папка (на компьютере)
+function$функция
+hacker$хакер
+hard disk$жесткий диск
+high availability$высокая доступность
+high performance$высокая производительность
+implementation$реализация
+import$импорт
+include$включение, включать в себя
+keyboard$клавиатура
+lamer$ламер
+language$язык
+leaf node$лист
+ledger$программа финансового учёта
+legal notes$юридическое заявление
+level$уровень
+library$библиотека (функций)
+life-cycle$жизненный цикл
+lightweight$простая и компактная (программа)
+line discipline$механизм обработки строк
+line switching$коммутация каналов (линий связи)
+line terminator$завершитель строки
+links bar$панель ссылок
+list headed by size$список с указанием размера
+literal$литерал
+literate programming$стиль разработки программы, при котором сначала пишется описание будущей программы на естественном языке, которое в процессе разработке разбавляется кодом программы
+live cd$загрузочный компакт-диск
+load balancing$балансировка нагрузки
+localhost$локальный хост
+log file$журнал сообщений
+look and feel$внешний вид, стиль
+loop$цикл
+loop body$тело цикла
+loopback interface$интерфейс обратной петли
+low-level$низкоуровневый
+low-level language$язык низкого уровня
+mail$почта
+member$член класса (член-переменная класса)
+method$метод
+mouse$мышь
+network$сеть
+notebook$ноутбук
+object$объект
+package$пакет (библиотека)
+platform$платформа
+process$процесс
+processing$обработка
+programmer$программист
+programming$программирование
+query language$язык запросов
+quorum$кворум
+random$случайный
+random number$случайное число
+replica$точная копия
+reset$сброс
+schedule$расписание
+sign in$войти
+signature$подпись
+software$программное обеспечение
+speech$речь
+staff$штат, посох
+statement$оператор
+static variable$статическая переменная
+table$стол, таблица
+variable$переменная
+virtual synchrony$виртуальная синхронность
+web-master$веб-мастер
+web-page$веб-страница
+web-site$веб-сайт

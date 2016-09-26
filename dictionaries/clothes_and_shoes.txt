@@ -1,0 +1,170 @@
+china silk$крепдешин
+aglet$аксельбант
+armlet$браслет, который носят на предплечье
+bangle$браслет, надеваемый на запястье или щиколотку
+batik$батик
+beret$берет
+bikini$бикини
+blue fox$песец
+boot$багажник, ботинок
+bow$бант
+bra$бюстгальтер
+brooch$брошь
+button$пуговица, баттон
+calico$хлопчатобумажная ткань
+cambric$батист
+canvas$канва
+cap peak$козырек
+cashmere$кашемир
+checked$клетчатый
+cheesecloth$марля
+chequered$клетчатый
+chiffon$шифон
+chinchilla$шиншилла
+clasp$карабин (застежка)
+coarse calico$бязь
+cockade$кокарда
+collar$воротник
+cotton$хлопок
+crepe de chine$крепдешин
+crepe-georgette$креп-жоржет
+crocheted$вязаный; трикотажный
+cuff$манжета
+decollete$декольтированный, с глубоким вырезом
+dress$платье, платье (женское)
+dungarees$джинсовый полукомбинезон
+ear-ring$серьга
+edging$окаймление, окантовка
+embroider$вышивать
+fandangle$фенечки
+fashion designer$модельер
+felt$войлок; фетр
+flap$пола, подол (одежды); клапан (кармана)
+flounce$оборка
+foam rubber$поролон
+fringe$бахрома
+frock$ряса
+fur$меховой
+fur coat$шуба
+galosh$галоша
+gauze$марля
+gingham$гринсбон (прочная плотная отбеленная хлопчатобумажная ткань с ткацким рисунком "в ёлочку")
+glass beads$бисер
+glasses$очки
+glove$перчатка
+gloves$перчатки
+goffer$гофрировка; декоративные складки, украшающие одежду
+gore$клин
+gusset$клин
+hairpin$шпилька
+heel$каблук
+hood$капюшон
+inner sole$стелька
+insole$стелька
+jabot$жабо
+jacket$куртка
+jean cloth$джинса
+jeans$джинсы
+jogging suit$спортивный костюм
+kerchief$платок (головной или шейный); косынка, шарф, платок (головной или шейный)
+knickers$трусики
+knitted$вязаный; трикотажный
+lace$кружево
+lace trimming$кружевная бейка
+lapel$лацкан
+lavsan$лавсан
+lawn$батист
+leather$кожа, кожаная вещь, кожаный предмет
+leatherette$искусственная кожа, кожзаменитель
+lingerie$дамское бельё
+lining$подкладка
+loose stitch$затяжка (на колготках)
+low neck$вырез
+mini-skirt$мини-юбка
+mink$норка
+mohair$мохер
+muff$муфта
+nightdress$ночная сорочка
+nightgown$ночная сорочка (амер.)
+nightie$ночная сорочка (женская или детская ночная рубашка)
+nylon$нейлон
+openwork$ажурная ткань
+oriental$восточный орнамент
+oversleeve$нарукавник
+padding polyester$синтепон
+pajamas$пижама (амер.)
+panama$панама
+panties$трусики (детские или женские)
+patch$заплатка
+patchpocket$накладной карман
+pattern$выкройка
+peak$козырёк
+pocket$карман
+polka dot$узор в горошек
+printed cotton$ситец
+pyjamas$пижама
+raffia$волокно пальмы рафия
+raincoat fabric$плащевка
+rayon$вискоза
+ring$кольцо
+rivet$заклепка
+rubberized$прорезиненный
+running shoes$кроссовки
+sandal$сандалия
+sandals$сандалии
+sateen$сатин
+satin stitch$вышивка гладью
+scarf$шарф
+sheet wadding$ватин
+shoelace$шнурок для ботинок
+shorts$шорты
+shoulder strap$бретелька
+silk$шёлк
+skirt$юбка
+sleeve$рукав
+slippers$тапочки
+snap hook$карабин (застежка)
+socks$носки
+sole$подошва
+stand-up collar$стоячий воротник
+stockinet$трикотаж
+stocking$чулок
+stretch fabric$эластичная ткань
+stripe$нашивка
+striped$в полоску, полосатый
+stripy$полосатый (разг.)
+suit$костюм, масть
+sweater$свитер, свитер, пуловер
+swimming trunks$плавки
+swimsuit$купальный костюм / купальник
+synthetic materials$синтетика
+tab$вешалка (на одежде)
+tennis shoes$теннисные туфли
+terry$махровый
+terrycloth$махровая ткань (для купальных халатов, полотенец)
+thick felt$войлок
+thick woollen cloth$драп
+thimble$напёрсток
+tie$галстук, равный счёт, игра вничью
+tie pin$зажим для галстука
+tights$колготки
+tracksuit$спортивный костюм
+trainers$кроссовки
+turn-down collar$ворот отложной
+umbrella walking stick$зонт-трость
+underpants$трусы
+veil$вуаль
+velour$велюр
+waistcoat$жилет
+watch$наблюдать, смотреть, часы
+waterproof$водонепроницаемый
+waterproof nylon cloth$непромокаемый плащ-болонья
+wattled$плетёный
+wellingtons$высокие резиновые сапоги
+whicky$фенечка
+women's underwear$женское нижнее белье
+woollen$шерстяной
+worsted$ткань из гребенной шерсти; шерстяная материя
+wristlet$браслет, ремешок для часов
+yoke$кокетка (платья)
+zip$молния (застёжка), молния

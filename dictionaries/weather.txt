@@ -1,0 +1,69 @@
+celsius$шкала Цельсия
+fahrenheit$шкала Фаренгейта
+uv rays$ультрафиолетовые лучи
+avalanche$лавина
+below freezing$ниже нуля
+boiling hot$нестерпимо жаркий
+breeze$бриз
+chilly$холодно
+clear$светлый, ясный, прозрачный, чёткий, безоблачный
+cloud$облако
+cloudy$облачный, пасмурный
+cold spell$похолодание
+cool$прохладный
+cyclone$циклон
+degrees$градус
+drizzling$моросящий
+drought$засуха
+dust storm$пыльная буря
+flood$наводнение
+fog$туман
+foggy$туманный
+forecast$прогноз
+freezing cold$очень холодный
+frost$мороз
+frostbite$обморожение
+hail$град
+heat stroke$тепловой удар
+heat-wave$период сильной жары
+humid$влажный
+humidity$влажность
+hurricane$ураган
+icy$ледяной
+lightning$молния
+meteorologist$метеоролог
+minus$минус
+negative$негативный
+partly cloudy$переменная облачность
+precipitation$осадки
+puddle$лужа
+rain$дождь
+rainbow$радуга
+raindrop$дождевая капля
+rainy$дождливый
+scorching$палящий, жаркий
+season$время года
+shade$тень, прохлада, тень
+shower$душ, ливень
+sleet$дождь со снегом
+slush$слякоть
+slushy$слякотный
+smog$смог
+snow$снег
+sun$солнце
+sunglasses$темные очки, солнцезащитные очки
+sunny$солнечный
+sunscreen$солнцезащитный крем
+sunshine$солнечный свет
+suntan$загар
+suntan lotion$лосьон для загара
+tanned$загорелый
+temperature$температура
+thermometer$термометр
+thunder$гром
+thunderstorm$гроза
+tornado$торнадо
+ultra violet rays$ультрафиолетовые лучи
+umbrella$зонтик
+wind$ветер
+windy$ветреный
